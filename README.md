@@ -1,16 +1,15 @@
-## Hi there 👋
+👩‍🎓 I'm a Computer Engineering Graduate
 
-<!--
-**KetkiMD/KetkiMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Skilled in Python, C++, SQL, and data visualization tools like Tableau and Power BI.
 
-Here are some ideas to get you started:
+👩‍💻 Certified Python Developer and AWS Developer Associate with hands-on experience in machine learning, ETL, and neural networks through CDAC from SM VITA, Mumbai.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about data analysis, forecasting, and end-to-end machine learning projects—I’m happy to help!
+
+✍ Passionate about creating impactful projects like dashboards, recommender systems, and web scraping solutions.
+
+🌱 Currently learning advanced algorithms, Docker, and containerization technologies.
+
+📬 How to reach me: ketki.dandgavale@gmail.com
+
+💪 Let’s collaborate and build innovative solutions together!
