@@ -1,8 +1,8 @@
 👩‍🎓 I'm a Computer Engineering Graduate
 
-🔭 Skilled in Python, C++, SQL, and data visualization tools like Tableau and Power BI.
+🔭 Skilled in Python, SQL, and data visualization tools like Tableau and Power BI.
 
-👩‍💻 Certified Python Developer and AWS Developer Associate with hands-on experience in machine learning, ETL, and neural networks through CDAC from SM VITA, Mumbai.
+👩‍💻 Certified Python Developer and AWS Developer Associate with hands-on experience in machine learning, and neural networks.
 
 💬 Ask me about data analysis, forecasting, and end-to-end machine learning projects—I’m happy to help!
 
